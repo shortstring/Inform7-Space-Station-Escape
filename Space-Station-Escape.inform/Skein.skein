@@ -1,0 +1,424 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-1012">
+    <generator>Inform Mac Client (Inform version )</generator>
+    <item nodeId="node-1012">
+        <command xml:space="preserve">Space-Station-Escape</command>
+        <result xml:space="preserve">
+
+
+Space-Station-Escape
+An Interactive Fiction by Ashton Smith
+Release 1 / Serial number 250507 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
+
+Engineering Bay
+You can see a radio here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1015"></child>
+        </children>
+    </item>
+    <item nodeId="node-1015">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Escape Pod Bay
+You can see a Battery Panel (closed) and a Control station (empty) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1036"></child>
+            <child nodeId="node-1016"></child>
+        </children>
+    </item>
+    <item nodeId="node-1016">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1017"></child>
+        </children>
+    </item>
+    <item nodeId="node-1017">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1018"></child>
+        </children>
+    </item>
+    <item nodeId="node-1018">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1019"></child>
+        </children>
+    </item>
+    <item nodeId="node-1019">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1025"></child>
+        </children>
+    </item>
+    <item nodeId="node-1025">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1036">
+        <command xml:space="preserve">push battery panel</command>
+        <result xml:space="preserve">Nothing obvious happens.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1037"></child>
+        </children>
+    </item>
+    <item nodeId="node-1037">
+        <command xml:space="preserve">push battery panel n</command>
+        <result xml:space="preserve">The Battery Panel cannot be pushed from place to place.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1038"></child>
+        </children>
+    </item>
+    <item nodeId="node-1038">
+        <command xml:space="preserve">open battery panek</command>
+        <result xml:space="preserve">I only understood you as far as wanting to open the Battery Panel.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1039"></child>
+        </children>
+    </item>
+    <item nodeId="node-1039">
+        <command xml:space="preserve">open battery panel</command>
+        <result xml:space="preserve">You open the Battery Panel.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1055"></child>
+        </children>
+    </item>
+    <item nodeId="node-1055">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1056"></child>
+        </children>
+    </item>
+    <item nodeId="node-1056">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Engineering Bay
+You can see a radio here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1071"></child>
+        </children>
+    </item>
+    <item nodeId="node-1071">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+command deck
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1072"></child>
+        </children>
+    </item>
+    <item nodeId="node-1072">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+storage room
+You can see a table (on which is a powerdrill) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1073"></child>
+        </children>
+    </item>
+    <item nodeId="node-1073">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+command deck
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1074"></child>
+        </children>
+    </item>
+    <item nodeId="node-1074">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Engineering Bay
+You can see a radio here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1075"></child>
+        </children>
+    </item>
+    <item nodeId="node-1075">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+command deck
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1088"></child>
+        </children>
+    </item>
+    <item nodeId="node-1088">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+storage room
+You can see a table (on which is a powerdrill) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1089"></child>
+        </children>
+    </item>
+    <item nodeId="node-1089">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">storage room
+You can see a table (on which is a powerdrill) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1090"></child>
+        </children>
+    </item>
+    <item nodeId="node-1090">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1091"></child>
+        </children>
+    </item>
+    <item nodeId="node-1091">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1092"></child>
+        </children>
+    </item>
+    <item nodeId="node-1092">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1093"></child>
+        </children>
+    </item>
+    <item nodeId="node-1093">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+command deck
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1094"></child>
+        </children>
+    </item>
+    <item nodeId="node-1094">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+storage room
+You can see a table (on which is a powerdrill) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1095"></child>
+        </children>
+    </item>
+    <item nodeId="node-1095">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1116"></child>
+        </children>
+    </item>
+    <item nodeId="node-1116">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1117"></child>
+        </children>
+    </item>
+    <item nodeId="node-1117">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+command deck
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1140"></child>
+        </children>
+    </item>
+    <item nodeId="node-1140">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+storage room
+You can see a table (on which is a powerdrill) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1141"></child>
+        </children>
+    </item>
+    <item nodeId="node-1141">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1238"></child>
+        </children>
+    </item>
+    <item nodeId="node-1238">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+command deck
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1239"></child>
+        </children>
+    </item>
+    <item nodeId="node-1239">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+storage room
+You can see a table (on which is a powerdrill) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1240"></child>
+        </children>
+    </item>
+    <item nodeId="node-1240">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+command deck
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1241"></child>
+        </children>
+    </item>
+    <item nodeId="node-1241">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Battery Room
+You can see a Power Switch and a Main Battery Panel (closed) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1242"></child>
+        </children>
+    </item>
+    <item nodeId="node-1242">
+        <command xml:space="preserve">take power switch</command>
+        <result xml:space="preserve">That's fixed in place.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1272"></child>
+        </children>
+    </item>
+    <item nodeId="node-1272">
+        <command xml:space="preserve">turn powerswitch on</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1273"></child>
+        </children>
+    </item>
+    <item nodeId="node-1273">
+        <command xml:space="preserve">turn power switch on</command>
+        <result xml:space="preserve">That's already on.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1274"></child>
+        </children>
+    </item>
+    <item nodeId="node-1274">
+        <command xml:space="preserve">switch power off</command>
+        <result xml:space="preserve">You switch the Power Switch off.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1275"></child>
+        </children>
+    </item>
+    <item nodeId="node-1275">
+        <command xml:space="preserve">switch power on</command>
+        <result xml:space="preserve">You switch the Power Switch on.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1474"></child>
+        </children>
+    </item>
+    <item nodeId="node-1474">
+        <command xml:space="preserve">open main battery panel</command>
+        <result xml:space="preserve">You open the Main Battery Panel, revealing an Ion Battery.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1475"></child>
+        </children>
+    </item>
+    <item nodeId="node-1475">
+        <command xml:space="preserve">take ion battery</command>
+        <result xml:space="preserve">You just got shocked!! Maybe we should try to turn the power off.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1546"></child>
+        </children>
+    </item>
+    <item nodeId="node-1546">
+        <command xml:space="preserve">turn off power</command>
+        <result xml:space="preserve">You switch the Power Switch off.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1547"></child>
+        </children>
+    </item>
+    <item nodeId="node-1547">
+        <command xml:space="preserve">take battery</command>
+        <result xml:space="preserve">(the Main Battery Panel)
+Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+</Skein>
